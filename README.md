@@ -10,8 +10,7 @@
 
 ## Skills
 - Machine Learning 
-- Finite Element
-- Magnesium Alloy Forming
+- Numerical Simulation
 
 ## Experience
 - 2022.11-2023.11 : Zhejiang LAB / Intern / Hangzhou, China
