@@ -23,10 +23,3 @@ Please star them for promoting open source projects! Thanks !
 
 ## Contact
 -  Email :jiaxuanma.shu@gmail.com
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
-</p>
