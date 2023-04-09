@@ -11,6 +11,7 @@
 ## Skills
 - Machine Learning 
 - Numerical Simulation
+- Material Design
 
 ## Experience
 - 2022.11-2023.11 : Zhejiang LAB / Intern / Hangzhou, China
