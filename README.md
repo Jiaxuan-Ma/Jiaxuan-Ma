@@ -7,7 +7,6 @@
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
 
-Please star them for promoting open source projects! Thanks !
 
 ## Skills
 - Machine Learning 
