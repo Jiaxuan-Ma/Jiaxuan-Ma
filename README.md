@@ -12,6 +12,7 @@ Please star them for promoting open source projects! Thanks !
 ## Skills
 - Machine Learning 
 - Finite Element
+- Magnesium Alloy Forming
 
 ## Experience
 - 2022.11-2023.11 : Zhejiang LAB / Intern / Hangzhou, China
