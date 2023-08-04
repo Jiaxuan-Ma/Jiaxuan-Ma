@@ -3,11 +3,11 @@
 
 ### 赵客缦胡缨，吴钩霜雪明。银鞍照白马，飒沓如流星。
 
+---
+
 ### Open source package: 
 
 [![](https://img.shields.io/badge/MLMD-Github-yellowgreen)](https://github.com/Jiaxuan-Ma/Machine-Learning-for-Material-Design)
-
-🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
 
 
 ## Skills
