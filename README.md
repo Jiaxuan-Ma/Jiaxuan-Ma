@@ -18,7 +18,7 @@
 
 ## Experience
 - 2022.11-2023.11 : Zhejiang LAB / Intern / Hangzhou, China
-- 2021.9-2025.6 : Shanghai University /  PHD student / Shanghai, China
+- 2021.9-2025.6 : Shanghai University /  PHD Candidate / Shanghai, China
 
 ## Languages
 - Mandarin Chinese (Native Speaker)
