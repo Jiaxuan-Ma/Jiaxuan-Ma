@@ -9,6 +9,7 @@
 
 [![](https://img.shields.io/badge/MLMD-Github-yellowgreen)](https://github.com/Jiaxuan-Ma/Machine-Learning-for-Material-Design)
 
+---
 
 ## Skills
 - Machine Learning 
