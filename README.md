@@ -19,7 +19,7 @@
 - Material Design
 
 ## Experience
-- 2022.11-2023.11 : Zhejiang LAB / Intern / Hangzhou, China
+- 2022.11-Now : Zhejiang LAB / Intern / Hangzhou, China
 - 2021.9-2025.6 : Shanghai University /  PHD Candidate / Shanghai, China
 
 ## Languages
