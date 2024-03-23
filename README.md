@@ -28,9 +28,3 @@
 - 2022.11-Now : Zhejiang LAB / Intern / Hangzhou, China
 - 2021.9-2025.6 : Shanghai University /  PHD Candidate / Shanghai, China
 
-## Languages
-- Mandarin Chinese (Native Speaker)
-- English (C1-C2 level)
-
-## Contact
--  Email :jiaxuanma.shu@gmail.com
