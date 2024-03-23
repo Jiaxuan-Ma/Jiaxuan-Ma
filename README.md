@@ -7,7 +7,7 @@
 
 <p align="left">
 <a href="https://github.com/jiaxuan-Ma">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jiaxuan+Ma+(马家轩);Researcher+%7C+PhD+Student+%7C+Focus+On+Xray+spectrography;Crystallography+%7C+XRD+%7C+XPS+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jiaxuan+Ma+(马家轩);Researcher+%7C+PhD+Candidate+%7C+Focus+On+Finite+Element+Method %7C;Machine+Learning %7C Alloy+Design" alt="Typing SVG" />
 </a>
 <br/>
  
@@ -16,20 +16,13 @@
 </a>
 </p>
 
-
 ### Open source package: 
 
 [![](https://img.shields.io/badge/MLMD-Github-yellowgreen)](https://github.com/Jiaxuan-Ma/Machine-Learning-for-Material-Design)
 
-**If they are helpful to you 🌈 Please star ⭐️ ! Thanks !**
-
+**If they are helpful to you 🌈 Please star ⭐️ ! Thanks !!!**
 
 ---
-
-## Skills
-- Machine Learning 
-- Numerical Simulation
-- Materials Design
 
 ## Experience
 - 2022.11-Now : Zhejiang LAB / Intern / Hangzhou, China
