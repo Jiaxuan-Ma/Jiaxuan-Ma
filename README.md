@@ -5,11 +5,6 @@
 
 ---
 
-<p align="left">
-<a href="https://github.com/jiaxuan-Ma">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jiaxuan+Ma+(马家轩);Researcher+%7C+PhD+Candidate+%7C+Focus+On+Finite+Element+Method %7C;Machine+Learning %7C Alloy+Design" alt="Typing SVG" />
-</a>
-<br/>
  
 <a href="https://github.com/jiaxuan-Ma">
     <img src="https://github-stats-alpha.vercel.app/api?username=jiaxuan-Ma&cc=22272e&tc=47BCF6&ic=fff&bc=1000">
