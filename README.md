@@ -13,6 +13,6 @@
 
 ### Open source package: 
 
-[![](https://img.shields.io/badge/MLMD-Github-yellowgreen)](https://github.com/Jiaxuan-Ma/Machine-Learning-for-Material-Design)
+[![](https://img.shields.io/badge/MatDesign-Github-yellowgreen)](https://github.com/Jiaxuan-Ma/Machine-Learning-for-Material-Design)
 
 **If they are helpful to you 🌈 Please star ⭐️ ! Thanks !!!**
